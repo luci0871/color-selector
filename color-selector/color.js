@@ -1,3 +1,3 @@
 "use strict"
 
-window.addEventListener("DOMContentLoaded", innit);
+window.addEventListener("DOMContentLoaded", init);
